@@ -1,4 +1,4 @@
-# Content-Based Song Recommender
+# Content-Based Song Recommender System
 
 This repository contains code for a content-based song recommender system. The system uses the lyrics of songs to find similar songs and recommends them based on their similarity scores.
 
